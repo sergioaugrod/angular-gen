@@ -1,0 +1,23 @@
+{
+  "name": "angular-gen",
+  "version": "0.0.1",
+  "description": "Creating and managing AngularJS projects.",
+  "main": "./lib/engine.js",
+  "bin": {
+    "ag": "./index.js"
+  },
+  "scripts": {
+    "test": "jshint lib",
+    "start": "node index.js"
+  },
+  "author": "sergioaugrod;paulohenriquevn",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "figlet": "^1.1.0",
+    "fs-extra": "^0.16.3",
+    "lodash": "^3.3.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  }
+}

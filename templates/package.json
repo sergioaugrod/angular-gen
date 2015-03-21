@@ -1,0 +1,11 @@
+{
+  "name": "New Project",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jade": "^0.11.0",
+    "gulp-less": "^2.0.1",
+    "gulp-livereload": "^3.6.0"
+  }
+}
